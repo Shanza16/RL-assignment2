@@ -9,7 +9,7 @@ This repository contains solutions to a classic 5×5 Gridworld problem using rei
   -  Green: +2.5 reward → jumps to red or yellow
   - Discount factor: γ = 0.95
 
-## ✅ Part 1
+##  Part 1
 
 ### Value Function Estimation
 - Bellman Equation
@@ -21,15 +21,24 @@ This repository contains solutions to a classic 5×5 Gridworld problem using rei
   - Policy Iteration with iterative policy evaluation
   -  policy improvement with value iteration.
 
-## ✅ Part 2
+##  Part 2
 
 ### Monte Carlo Method
 - With Exploring Starts
 - ε-soft policy without exploring starts
 - Off-policy learning using Importance Sampling
 
-## 🖼️ Outputs
+##  Outputs
 
 - Heatmaps of value functions
 - Optimal policy visualizations
 
+##  Requirements
+Run this notebook on **Google Colab** – no setup needed beyond these packages:
+
+# These are pre-installed on Google Colab
+numpy
+matplotlib
+
+## How to Run
+- open the files in in Google Colab and run one by one.
