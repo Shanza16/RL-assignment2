@@ -34,7 +34,7 @@ This repository contains solutions to a classic 5×5 Gridworld problem using rei
 - Optimal policy visualizations
 
 ##  Requirements
-Run this notebook on **Google Colab** – no setup needed beyond these packages:
+Run this notebook on **Google Colab** .
 
 
 ## How to Run
