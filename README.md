@@ -36,9 +36,6 @@ This repository contains solutions to a classic 5×5 Gridworld problem using rei
 ##  Requirements
 Run this notebook on **Google Colab** – no setup needed beyond these packages:
 
-## These are pre-installed on Google Colab
-numpy
-matplotlib
 
 ## How to Run
 - open the files in in Google Colab and run one by one.
